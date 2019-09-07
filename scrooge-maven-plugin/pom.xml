@@ -186,7 +186,7 @@
     <dependency>
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-plugin-api</artifactId>
-      <version>3.0.5</version>
+      <version>3.5.0</version>
       <!-- Exclude sisu-guice which patches com.google.inject#guice-3.0.0
        This dependency causes https://github.com/google/guice/issues/846-->
       <exclusions>
@@ -206,7 +206,7 @@
     <dependency>
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-compat</artifactId>
-      <version>3.0.5</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>org.apache.maven</groupId>
@@ -227,7 +227,7 @@
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-utils</artifactId>
-      <version>1.5.4</version>
+      <version>3.0.24</version>
     </dependency>
     <dependency>
       <groupId>org.slf4j</groupId>
